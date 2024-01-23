@@ -44,7 +44,7 @@ For example:
 ['shells', 'gorgonzola', 'parsley']
 
 
-.. _test2
+.. _test2:
 Second Heading test
 --------------
 

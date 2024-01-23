@@ -42,3 +42,13 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
+
+
+.. _test2
+Second Heading test
+--------------
+
+.. code-block:: bash 
+
+  whoami
+  
